@@ -1,0 +1,11 @@
+node_modules/
+public/**/*.js
+public/**/*.js.map
+public/**/*.css
+public/**/*.css.map
+public/**/*.json
+public/**/*.png
+public/**/*.svg
+public/**/*.jpg
+public/**/*.mp4
+.DS_Store
